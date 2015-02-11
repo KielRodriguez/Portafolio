@@ -1,0 +1,23 @@
+body{
+	background-color: whitesmoke;
+	font-family: Arial, Verdana, Sans-serif;
+	margin: o auto;
+	padding: 0;
+	width:100%;
+	max-width: 80%;
+}
+
+section{
+	width: 60%;
+	float: left;
+	overflow: hidden;
+	background-color: white;
+	padding: 1em;
+}
+
+aside{
+	width: 30%;
+	float: right;
+	background-color: white;
+	padding: 1em;
+}
